@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **oshivimarsha1221@gmail.com**
 
-- ⚡ Fun fact **I think I am funny BOOTSRAP**
+- ⚡ Fun fact **I think I am funny**
   <br>  <br>
 
    <p align="center">
