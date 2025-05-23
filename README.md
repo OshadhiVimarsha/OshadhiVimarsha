@@ -29,9 +29,9 @@
   <br>  <br>
 
    <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social" > &nbsp;&nbsp; 
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp;  <br>  <br>
-  <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" /> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/OshadhiVimarsha?style=social" > &nbsp;&nbsp; 
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OshadhiVimarsha?style=social"> &nbsp;&nbsp;  <br>  <br>
+  <img src="https://komarev.com/ghpvc/?username=OshadhiVimarsha&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc">
 </p>
  
 
@@ -57,7 +57,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
+  &copy; 2021 | Oshadhi Vimarsha 
 </div>
 
 <br> <br>
@@ -100,13 +100,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OshadhiVimarsha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OshadhiVimarsha&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OshadhiVimarsha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
